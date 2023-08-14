@@ -1,0 +1,22 @@
+
+.container {
+  margin: 50px auto;
+  width: 400px;
+  padding: 10px;
+
+  background:#CCE6CC;
+  border-radius: 20px;
+  
+}
+
+* {
+  transition: all 350ms ease;
+}
+
+.buttonsCont {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
